@@ -1,0 +1,12 @@
+Stay Safe Online Checklist
+
+1. Never share your OTP, passwords, or bank details with anyone.
+2. Do not scan unknown QR codes or approve unknown UPI payment requests.
+3. Always verify the identity of callers claiming to be bank or police officials.
+4. Avoid clicking on suspicious links received through SMS, email, or social media.
+5. Use strong and unique passwords for all your accounts.
+6. Enable two-factor authentication (2FA) wherever possible.
+7. Do not install apps from unknown or untrusted sources.
+8. Regularly update your phone and apps to maintain security.
+9. Be cautious of offers that seem too good to be true.
+10. Immediately report any cyber fraud to the National Cyber Crime Portal (cybercrime.gov.in) or call helpline 1930.
