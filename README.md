@@ -3,7 +3,7 @@
 ## Student Details
 Name: Aseem Udhbhav  
 Registration No: 25BCE11011  
-Course: B.Tech  
+Course : B.Tech  
 
 ---
 
